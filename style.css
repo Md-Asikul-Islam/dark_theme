@@ -17,3 +17,14 @@
     justify-content: center;
     align-items: center;
   }
+
+
+/* Container Styles */
+.container {
+    text-align: center;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    box-shadow: 0rem 0.4rem 1rem rgba(0, 0, 0, 0.1);
+    transition: background-color 0.5s ease, box-shadow 0.5s ease;
+}
